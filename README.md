@@ -14,8 +14,16 @@ The top genres include Drama, Comedy, and Animation, while most content is rated
 The “Total Show by Released Year” chart shows a rapid increase in content post-2000.
 Geographic data reveals strong content presence in countries like the US, India, and the UK, emphasizing global diversity in Prime Video offerings.</p3>
 <img src="prime amzon.PNG"width="600", Height="300",style="margin-top: 100px;"/img>
-<h5>3. Water pumps in Tanzania Dashboard .</h5>
-<p4>The Power BI dashboard provides valuable insights into the water infrastructure across 16 regions in Tanzania, revealing that regions like Kilimanjaro, Ruvuma, and Kigoma have the highest number of water points, indicating better coverage or infrastructure. A closer look at the status of water pumps shows that while the majority are functional, a significant portion either needs repair or is non-functional—highlighting the urgent need for maintenance strategies.</p4>
+<h5>3.ATM Dashboard</h5>
+<p4>The ATM Transaction Dashboard reveals a monthly transaction volume of 5.46K and revenue of 52.13K, with a healthy uptime of 91.9%, indicating reliable operations. A gross profit of 342M against total costs of 296M showcases strong financial performance. Punjab and Assam lead in state-wise revenue contributions, while some North-Eastern states lag behind. Most ATMs fall within the high-margin range of above 30%. </p4>
+<div style="display: flex; justify-content: space-between; gap: 10px;">
+  <img src="Atm Dashboard 1.PNG" width="500" height="300" />
+  <img src="Atm Dashboard overview.PNG" width="500" height="300" />
+  <img src="Atm Dashboard Detail.PNG" width="500" height="300" />
+</div>
+
+<h6>4. Water pumps in Tanzania Dashboard .</h6>
+<p5>The Power BI dashboard provides valuable insights into the water infrastructure across 16 regions in Tanzania, revealing that regions like Kilimanjaro, Ruvuma, and Kigoma have the highest number of water points, indicating better coverage or infrastructure. A closer look at the status of water pumps shows that while the majority are functional, a significant portion either needs repair or is non-functional—highlighting the urgent need for maintenance strategies.</p5>
 <div style="display: flex; justify-content: space-between; gap: 10px;">
   <img src="water pipline 1.PNG" width="500" height="300" />
   <img src="water pipline 2 PNG.PNG" width="500" height="300" />
