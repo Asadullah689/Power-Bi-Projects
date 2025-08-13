@@ -29,5 +29,9 @@ Geographic data reveals strong content presence in countries like the US, India,
   <img src="water pipline 2 PNG.PNG" width="500" height="300" />
   <img src="water pipline 3 PNG.PNG" width="500" height="300" />
 </div>
+<h7>5.PRISM Insurance Performance & Claims Analysis Dashboard</h7>
 
-
+<p6>This dashboard analyzes PRISM Insurance Pvt. Ltd.’s policy and claim performance, focusing on Premium Amount, Coverage Amount, and Claim Amount.It breaks down data by Policy Type, Claim Status, Gender, and Age Group to identify trends.The dashboard reveals revenue drivers, policy distribution, and claim patterns, with recommendations to enhance clarity through a bold color palette, distinct category shades, and a lighter background for better readability.
+</p6>
+<div style="display: flex; justify-content: space-between; gap: 10px;">
+  <img src="PRISM Insurance Performance & Claims Analysis Dashboard.PNG" width="500" height="300" />
