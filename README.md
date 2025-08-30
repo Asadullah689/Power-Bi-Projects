@@ -35,3 +35,15 @@ Geographic data reveals strong content presence in countries like the US, India,
 </p6>
 <div style="display: flex; justify-content: space-between; gap: 10px;">
   <img src="PRISM Insurance Performance & Claims Analysis Dashboard.PNG" width="500" height="300" />
+ 
+<h8>6.Toll Plaza Dashboard</h8>
+
+<p7>The toll plaza dashboard highlights a **total revenue of 52M** with **122K unique vehicles** during November 2024.
+Revenue is strongly driven by **Rigid Trucks**, followed by Cars/Jeeps and Pickups/Vans.
+Day-wise analysis shows **Friday and Saturday as peak revenue days**, while Sunday and Monday remain lowest.
+Shift performance indicates the **evening shift generates the highest collections**, ahead of morning and night.
+Booth user contribution varies, reflecting differences in transaction handling and volume.
+Overall, the data confirms steady revenue growth with **dominance of heavy vehicles and weekend traffic peaks**.
+</p7>
+
+<img src="Toll Plaza Dashboard.png" width="500" height="300" />
